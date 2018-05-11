@@ -1,3 +1,17 @@
+
+mxgraph.net
+===========
+
+This fork is focused on .NET application of the library:
++ Porting Java version of the library to C#, to catch-up with its advanced features
++ NuGet package for .NET namespace
+
+
+
+-----
+Original read me from the author (@jgraph)
+-----
+
 mxgraph
 =======
 
